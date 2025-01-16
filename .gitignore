@@ -1,0 +1,10 @@
+
+*.csv
+*.npy
+*.gexf
+*.tsv
+*.zip
+*.rar
+*.RData
+*.fasta
+*.xls
